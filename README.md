@@ -1,2 +1,4 @@
-# estruturas-de-dados
-Estruturas de dados e algoritmos 
+# Estruturas de Dados
+
+
+> Algoritmos genéricos de estrutura de dados, ordenação e busca.
