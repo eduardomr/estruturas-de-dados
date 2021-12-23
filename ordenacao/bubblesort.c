@@ -1,6 +1,6 @@
-#include ordenacaomacros.h
+#include "ordenacaomacros.h"
 
-void buublesort(Item *v, int l, int r)
+void bubblesort(Item *v, int l, int r)
 {
     for (int i=l;i<r;i++)
     {

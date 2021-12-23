@@ -7,4 +7,5 @@
 
 | Algoritmo  |  Complexidade  |
 | ------------------- | ------------------- |
-|  Bubblesort |  O(n²) |
+|  Bubble sort |  O(n²) |
+|  Selection sort |  O(n²) |
