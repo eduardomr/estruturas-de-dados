@@ -9,3 +9,4 @@
 | ------------------- | ------------------- |
 |  Bubble sort |  O(n²) |
 |  Selection sort |  O(n²) |
+|  Insertion sort |  O(n²) |

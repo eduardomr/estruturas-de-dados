@@ -1,5 +1,6 @@
 #include "selectionsort.c"
 #include "bubblesort.c"
+#include "insertionsort.c"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -10,7 +11,7 @@ int main()
     {
         vetor[i] = rand();
     }
-    bubblesort(vetor, 0, 999); //Insira a função que deseja testar aqui
+    insertionsort(vetor, 0, 999); //Insira a função que deseja testar aqui
 
     for (int i = 0; i < 1000; i++)
     {
